@@ -1,7 +1,8 @@
 /*
 Fichier:	labyrinthe.js
-Auteurs:	Louis-Edouard LAFONTANT et
-			Mohammad Hossein ERFANIAN AZMOUDEH
+Auteurs:	Mohammad Hossein ERFANIAN AZMOUDEH
+			Louis-Edouard LAFONTANT
+			
 
 Ce programme permet de construire un labyrinthe
 */
